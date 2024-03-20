@@ -20,7 +20,7 @@ function home(){
                     <input type="password" placeholder='Enter Your Password' className='pass1'/><br />
                     <input type="checkbox" className='check1'/>
                     <p className='logged'>Keep Me Logged In</p>
-                    <a href="/" className='forgot1'>FORGOT PASSWORD</a>
+                    <a href="/" className='forgot1'>FORGOT PASSWORD ?</a>
                     <button className='logIn'>LOG IN</button>
                 </div>
             </div>

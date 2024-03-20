@@ -125,20 +125,20 @@ body{
 }
 
 .options{
-  margin-left: 65%;
+  margin-left: 60%;
 }
 
 .options a{
   text-decoration: none;
   color: black;
-  margin: 0 10px;
+  margin: 0 17px;
   font-size: 1.3rem;
   font-weight: 600;
 }
 
 .reg{
   background-color: #E2F41E;
-  padding: 5px 20px;
+  padding: 10px 30px;
   border-radius: 10px;
 }
 
@@ -153,15 +153,15 @@ body{
 }
 
 .inp{
-  margin: 200px 0 0 500px;
+  margin: 200px 0 0 400px;
 }
 
 .inp input{
-  padding: 10px 20px;
+  padding: 20px 40px;
   border-radius: 10px;
   margin: 10px 0;
-  width: 350px;
-  height: 60px;
+  width: 370px;
+  height: 75px;
 }
 
 .check1{
@@ -191,19 +191,31 @@ body{
 .logIn{
   padding: 10px 40px;
   background-color: #F4DE1C;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .email1{
   background-image: url('./images/inpMail.png');
   background-repeat: no-repeat;
-  background-position: 3% center;
+  background-position: 5% center;
   text-align: center;
 }
 
 .pass1{
   background-image: url('./images/inpPass.png');
   background-repeat: no-repeat;
-  background-position: 3% center;
+  background-position: 5% center;
   text-align: center;
+}
+
+.img1{
+  margin: 50px 0 0 100px;
+}
+
+/* First */
+
+.first-cont{
+  background-image: url('./images/first-img.png');
+  height: 88.1vh;
+  background-color: #8839F5CC;
 }

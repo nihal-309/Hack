@@ -1,6 +1,7 @@
-import Login from './components/login';
-import SignUp from './components/signup'
-import Home from './components/home'
+// import Login from './components/login';
+// import SignUp from './components/signup'
+// import Home from './components/home'
+import First from './components/first'
 import './App.css';
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <div className="App">
       {/* <Login /> */}
       {/* <SignUp /> */}
-      <Home />
+      {/* <Home /> */}
+      <First />
     </div>
   );
 }
